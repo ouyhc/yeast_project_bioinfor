@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Buy not these files...
+!.gitignore
+!*.pl
+!*.py
+!*.R
+!*.README
+!*.sh
+!*.ipynb
+# ...even if they are in subdirectories
+!*/
+
+biosoft/

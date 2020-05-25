@@ -1,0 +1,2 @@
+
+python ../../scripts/gener_cmd_hisat2.py ../../yeast_project/RNA_seq/SRR_Acc_List_sample.txt ../../yeast_project/reference/yeast_ref ../../yeast_project/RNA_seq/ > cmd1_hisat2_all.sh
